@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Shivansh Yadav (Venom) 
+# 👋 Hi, I'm Shivansh Yadav 
 
 📧 **Email:** mrshivusinghyadav@gmail.com  
 🔗 **LinkedIn:** [the-venom](https://www.linkedin.com/in/the-venom)  
