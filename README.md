@@ -70,7 +70,7 @@ I value **clarity, performance, and durability** over over-engineered or flashy 
 
 **SQL • Analytics • Query Optimization**
 
-[![SQL Journey](https://img.shields.io/badge/View%20Repository-SQL%20Journey-4479A1?style=for-the-badge\&logo=github)](https://github.com/Venom-Shivu/My-SQL-Journey)
+[![SQL Journey](https://img.shields.io/badge/View%20Repository-SQL%20Journey-4479A1?style=for-the-badge\&logo=github)](https://github.com/Venom-Shivu/MySQL-JOURNEY)
 
 ---
 
