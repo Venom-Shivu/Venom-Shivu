@@ -58,6 +58,24 @@ I value **clarity, performance, and durability** over over-engineered or flashy 
 
 ## 📁 Featured Repositories
 
+---
+
+### 🎮 Python Console Games
+
+**Python • Logic Building • OOP • Game Design**
+
+[![Python Console Games](https://img.shields.io/badge/View%20Repository-Python%20Console%20Games-3670A0?style=for-the-badge&logo=github)](https://github.com/Venom-Shivu/python-console-games)
+
+---
+
+### 📈 VenomSQL – Executive Analytics Dashboard
+
+**Advanced SQL • KPI Design • Executive Reporting • Power BI**
+
+[![VenomSQL Executive Dashboard](https://img.shields.io/badge/View%20Repository-VenomSQL%20Executive%20Analytics-4479A1?style=for-the-badge&logo=github)](https://github.com/Venom-Shivu/VenomSQL-Executive-Analytics-Dashboard)
+
+---
+
 ### 🐍 Python Journey
 
 **Python • DSA • Problem Solving**
@@ -81,6 +99,7 @@ I value **clarity, performance, and durability** over over-engineered or flashy 
 [![Python Workbook](https://img.shields.io/badge/View%20Repository-Python%20Workbook-150458?style=for-the-badge\&logo=github)](https://github.com/Venom-Shivu/Comprehensive-Python-Practice-Workbook-Venom)
 
 ---
+
 
 ## 📊 GitHub Activity
 
