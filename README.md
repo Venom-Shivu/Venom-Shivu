@@ -118,10 +118,21 @@ Includes revenue trends, category performance, customer segmentation, fulfillmen
 
 ---
 
+## 📊 GitHub Insights
 
-## 📊 GitHub Activity
+<p align="center">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Venom-Shivu&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Venom-Shivu\&show_icons=true\&theme=tokyonight)
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Venom-Shivu&theme=tokyonight&hide_border=true" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Venom-Shivu&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+## 📈 Contribution Graph
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Venom-Shivu&theme=tokyo-night&hide_border=true)
 
 ---
 
