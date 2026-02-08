@@ -117,12 +117,14 @@ Includes revenue trends, category performance, customer segmentation, fulfillmen
 [![Python Workbook](https://img.shields.io/badge/View%20Repository-Python%20Workbook-150458?style=for-the-badge\&logo=github)](https://github.com/Venom-Shivu/Comprehensive-Python-Practice-Workbook-Venom)
 
 ---
+## 📊 GitHub Insights
 
-## Github Insights
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Venom-Shivu&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-![snake](https://raw.githubusercontent.com/Venom-Shivu/Venom-Shivu/output/github-contribution-grid-snake.svg)
+## 📈 Contribution Graph
 
-
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Venom-Shivu&theme=tokyo-night)
 
 ---
 
