@@ -120,10 +120,9 @@ Includes revenue trends, category performance, customer segmentation, fulfillmen
 ## 📊 GitHub Insights
 
 
-
+<p align = "center">
   <img src="https://streak-stats.demolab.com?user=Venom-Shivu&theme=tokyonight&hide_border=true"/>
 </p>
-
 
 
 ## 📈 Contribution Graph
