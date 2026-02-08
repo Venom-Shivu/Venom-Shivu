@@ -57,6 +57,31 @@ I value **clarity, performance, and durability** over over-engineered or flashy 
 ---
 
 ## 📁 Featured Repositories
+--- 
+### 📊 Nexus Analytics – E-Commerce Performance Dashboard
+
+**Python • Excel Power Pivot • DAX • KPI Design • Business Intelligence**
+
+End-to-end analytics project demonstrating the full data lifecycle:
+- Synthetic data generation using Python
+- Data modeling with Excel Power Pivot
+- DAX-based KPI & YoY analysis
+- Executive dashboard design
+- Business insight extraction
+
+Includes revenue trends, category performance, customer segmentation, fulfillment metrics, and marketing channel effectiveness.
+
+[![Nexus Analytics Dashboard](https://img.shields.io/badge/View%20Repository-Nexus%20Analytics-217346?style=for-the-badge&logo=github)](https://github.com/Venom-Shivu/nexus-analytics)
+
+![Nexus Dashboard Preview](https://raw.githubusercontent.com/Venom-Shivu/nexus-analytics/main/03_Dashboard_Exports/Nexus_Dashboard.png)
+
+---
+
+### 📈 VenomSQL – Executive Analytics Dashboard
+
+**Advanced SQL • KPI Design • Executive Reporting • Power BI**
+
+[![VenomSQL Executive Dashboard](https://img.shields.io/badge/View%20Repository-VenomSQL%20Executive%20Analytics-4479A1?style=for-the-badge&logo=github)](https://github.com/Venom-Shivu/VenomSQL-Executive-Analytics-Dashboard)
 
 ---
 
@@ -68,13 +93,6 @@ I value **clarity, performance, and durability** over over-engineered or flashy 
 
 ---
 
-### 📈 VenomSQL – Executive Analytics Dashboard
-
-**Advanced SQL • KPI Design • Executive Reporting • Power BI**
-
-[![VenomSQL Executive Dashboard](https://img.shields.io/badge/View%20Repository-VenomSQL%20Executive%20Analytics-4479A1?style=for-the-badge&logo=github)](https://github.com/Venom-Shivu/VenomSQL-Executive-Analytics-Dashboard)
-
----
 
 ### 🐍 Python Journey
 
