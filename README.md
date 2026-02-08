@@ -122,6 +122,13 @@ Includes revenue trends, category performance, customer segmentation, fulfillmen
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Venom-Shivu&show_icons=true&theme=tokyonight&hide_border=true"/>
 
+  <img src="https://streak-stats.demolab.com?user=Venom-Shivu&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Venom-Shivu&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
 ## 📈 Contribution Graph
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Venom-Shivu&theme=tokyo-night)
