@@ -1,10 +1,13 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0A1AFF&height=220&section=header&text=Shivansh%20Yadav&fontSize=45&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0A1AFF&height=200&section=header&text=Shivansh%20Yadav&fontSize=42&fontColor=ffffff" />
 </p>
 
-<h3 align="center">
-Data Visualization | Data Analytics | Data Science | Analytics Engineering
-</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Data%20Visualization-0A1AFF?style=flat-square" />
+  <img src="https://img.shields.io/badge/Data%20Analytics-0A1AFF?style=flat-square" />
+  <img src="https://img.shields.io/badge/Data%20Science-0A1AFF?style=flat-square" />
+  <img src="https://img.shields.io/badge/Analytics%20Engineering-0A1AFF?style=flat-square" />
+</p>
 
 <p align="center">
 🎓 B.Tech Computer Science & Engineering
@@ -14,10 +17,8 @@ Data Visualization | Data Analytics | Data Science | Analytics Engineering
   <a href="https://www.linkedin.com/in/the-venom/">
     <img src="https://img.shields.io/badge/LinkedIn-Shivansh%20Yadav-0A66C2?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="https://github.com/Venom-Shivu">
-    <img src="https://img.shields.io/badge/GitHub-Venom--Shivu-000000?style=for-the-badge&logo=github" />
-  </a>
 </p>
+
 
 
 ## 🔍 About Me
