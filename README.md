@@ -1,11 +1,9 @@
----
-
 # 👋 Shivansh Yadav
 
 **Analytics Engineering | Data Science | Machine Learning | BI Systems**
 🎓 *B.Tech Computer Science & Engineering*
 
----
+--- 
 
 ## 🔍 About Me
 
