@@ -1,9 +1,24 @@
-# 👋 Shivansh Yadav
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0A1AFF&height=220&section=header&text=Shivansh%20Yadav&fontSize=45&fontColor=ffffff&animation=fadeIn" />
+</p>
 
-**Analytics Engineering | Data Science | Machine Learning | BI Systems**
-🎓 *B.Tech Computer Science & Engineering*
+<h3 align="center">
+Data Visualization | Data Analytics | Data Science | Analytics Engineering
+</h3>
 
---- 
+<p align="center">
+🎓 B.Tech Computer Science & Engineering
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/the-venom/">
+    <img src="https://img.shields.io/badge/LinkedIn-Shivansh%20Yadav-0A66C2?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://github.com/Venom-Shivu">
+    <img src="https://img.shields.io/badge/GitHub-Venom--Shivu-000000?style=for-the-badge&logo=github" />
+  </a>
+</p>
+
 
 ## 🔍 About Me
 
