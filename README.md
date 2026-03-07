@@ -93,6 +93,42 @@ This project demonstrates **system-level analytical thinking**, not isolated fea
 [![AetherStream Analytics Engineering](https://img.shields.io/badge/View%20Repository-AetherStream%20Analytics%20Engineering-0A1AFF?style=for-the-badge&logo=github)](https://github.com/Venom-Shivu/AetherStream-Analytics-Engineering)
 
 ---
+## 🎮 Gaming Behavior & Mental Health Analytics
+
+**SQL Data Pipelines • Behavioral Risk Modeling • Power BI Executive Dashboard**
+
+An end-to-end analytics project designed to investigate the relationship between **gaming behavior and mental health indicators** using large-scale behavioral data.
+
+The system builds a structured analytics pipeline that transforms raw player activity into **behavioral risk insights and executive reporting dashboards.**
+
+### Key Capabilities
+
+- SQL analytical pipeline with modular transformation views
+- Behavioral risk modeling using composite mental risk scoring
+- Player segmentation across addiction and gaming intensity
+- Lifestyle impact analysis (sleep vs stress patterns)
+- Toxic exposure vs aggression analysis
+- Executive-level Power BI dashboard for risk monitoring
+
+### System Architecture
+
+
+Raw Behavioral Dataset
+↓
+SQL Data Cleaning & Feature Engineering
+↓
+Analytical Views (Risk Modeling & Segmentation)
+↓
+Power BI Semantic Model (DAX Measures & KPIs)
+↓
+Executive Behavioral Risk Dashboard
+
+
+[![View Repository](https://img.shields.io/badge/View%20Repository-Gaming%20Behavior%20Mental%20Health%20Analytics-0A1AFF?style=for-the-badge&logo=github)](https://github.com/Venom-Shivu/gaming-behavior-mental-health-analytics)
+
+![Gaming Behavioral Dashboard](https://raw.githubusercontent.com/Venom-Shivu/gaming-behavior-mental-health-analytics/main/images/executive_snapshot.png)
+
+---
 
 ## 📊 Nexus Analytics – E-Commerce Performance Dashboard
 
