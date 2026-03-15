@@ -1,12 +1,15 @@
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&duration=2500&pause=1000&color=0A1AFF&center=true&vCenter=true&width=500&lines=Shivansh+Yadav" />
+</h1>
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0A1AFF&height=200&section=header&text=Shivansh%20Yadav&fontSize=42&fontColor=ffffff" />
+Data Analyst • Analytics Engineer
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Data%20Visualization-0A1AFF?style=flat-square" />
-  <img src="https://img.shields.io/badge/Data%20Analytics-0A1AFF?style=flat-square" />
-  <img src="https://img.shields.io/badge/Data%20Science-0A1AFF?style=flat-square" />
-  <img src="https://img.shields.io/badge/Analytics%20Engineering-0A1AFF?style=flat-square" />
+  <a href="https://www.linkedin.com/in/the-venom/">
+    <img src="https://img.shields.io/badge/LinkedIn-Shivansh%20Yadav-0A66C2?style=for-the-badge&logo=linkedin" />
+  </a>
 </p>
 
 <p align="center">
@@ -73,26 +76,6 @@ I prioritize:
 # 🚀 Featured Systems & Projects
 
 ---
-
-## 🏗 AetherStream – Analytics Engineering System (Flagship Project)
-
-**Power Query • Star Schema • DAX • Predictive Analytics • Enterprise BI**
-
-A full **end-to-end analytics engineering framework** simulating real enterprise workflows.
-
-- High-scale ETL ingestion pipelines  
-- Star schema modeling with Power Pivot  
-- Advanced DAX (Churn, Retention, LTV, Fiscal YoY)  
-- Monte Carlo simulation & forecasting  
-- Executive KPI dashboards  
-- Paginated API ingestion  
-- Enterprise-scale synthetic datasets  
-
-This project demonstrates **system-level analytical thinking**, not isolated features.
-
-[![AetherStream Analytics Engineering](https://img.shields.io/badge/View%20Repository-AetherStream%20Analytics%20Engineering-0A1AFF?style=for-the-badge&logo=github)](https://github.com/Venom-Shivu/AetherStream-Analytics-Engineering)
-
----
 ## 🎮 Gaming Behavior & Mental Health Analytics
 
 **SQL Data Pipelines • Behavioral Risk Modeling • Power BI Executive Dashboard**
@@ -145,6 +128,47 @@ End-to-end analytics lifecycle:
 
 ![Nexus Dashboard Preview](https://raw.githubusercontent.com/Venom-Shivu/nexus-analytics/main/03_Dashboard_Exports/Nexus_Dashboard.png)
 
+---
+
+## 🛒 Amazon US Marketplace Performance Analysis (Business Case Study)
+
+**Power BI • Star Schema Modeling • DAX • Business Intelligence**
+
+A real-world **Amazon business case study** analyzing the performance of the US marketplace between **2014–2017** to evaluate growth trends and identify strategic drivers of revenue.
+
+The project simulates an analytics scenario where the **Global Product Strategy & Analytics team** must determine whether marketplace growth is slowing and which segments drive performance before leadership allocates marketing budget for the upcoming year.
+
+### Key Analytical Focus
+
+- Revenue growth trend analysis
+- Department revenue concentration
+- Merchant segment contribution
+- Buyer engagement impact on transactions
+- Marketplace revenue efficiency
+
+### Key Insights
+
+- Revenue increased from **$1.03B → $1.59B** across four years
+- Growth slowed in **2016 (~8%)** before recovering in **2017 (~18%)**
+- The **Books department generated nearly 49% of marketplace revenue**
+- **High-volume merchants drive the majority of revenue**
+- Buyer engagement significantly influences transaction frequency
+
+### System Architecture
+
+Raw Marketplace Dataset  
+↓  
+Data Modeling (Star Schema)  
+↓  
+DAX Measures & KPI Development  
+↓  
+Power BI Executive Dashboard  
+↓  
+Strategic Insights & Business Recommendations  
+
+[![View Repository](https://img.shields.io/badge/View%20Repository-Amazon%20Marketplace%20Analytics-0A1AFF?style=for-the-badge&logo=github)](https://github.com/Venom-Shivu/amazon-us-marketplace-performance-analysis)
+
+![Amazon Executive Dashboard](https://raw.githubusercontent.com/Venom-Shivu/amazon-us-marketplace-performance-analysis/main/dashboards/executive_dashboard.png)
 ---
 
 ## 📈 VenomSQL – Executive Analytics Dashboard
