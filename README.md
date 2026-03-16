@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-Data Analyst / Data Analytics Engineer | Advanced SQL & Python | End-to-End Data Pipelines & Data Modeling | Statistical Forecasting & Hypothesis Testing | Power BI (DAX) & Tableau
+Data Analyst / Analytics Engineer | Advanced SQL & Python | End-to-End Data Pipelines & Data Modeling | Statistical Forecasting & Hypothesis Testing | Power BI (DAX) & Tableau
 </p>
 
 <p align="center">
