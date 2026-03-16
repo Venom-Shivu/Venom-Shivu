@@ -65,7 +65,6 @@ I prioritize:
 
 # 🚀 Featured Systems & Projects
 
----
 ## 🎮 Gaming Behavior & Mental Health Analytics
 
 **SQL Data Pipelines • Behavioral Risk Modeling • Power BI Executive Dashboard**
