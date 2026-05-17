@@ -83,28 +83,6 @@ An end-to-end analytics project designed to investigate the relationship between
 
 The system builds a structured analytics pipeline that transforms raw player activity into **behavioral risk insights and executive reporting dashboards.**
 
-### Key Capabilities
-
-- SQL analytical pipeline with modular transformation views
-- Behavioral risk modeling using composite mental risk scoring
-- Player segmentation across addiction and gaming intensity
-- Lifestyle impact analysis (sleep vs stress patterns)
-- Toxic exposure vs aggression analysis
-- Executive-level Power BI dashboard for risk monitoring
-
-### System Architecture
-
-
-Raw Behavioral Dataset
-↓
-SQL Data Cleaning & Feature Engineering
-↓
-Analytical Views (Risk Modeling & Segmentation)
-↓
-Power BI Semantic Model (DAX Measures & KPIs)
-↓
-Executive Behavioral Risk Dashboard
-
 
 [![View Repository](https://img.shields.io/badge/View%20Repository-Gaming%20Behavior%20Mental%20Health%20Analytics-0A1AFF?style=for-the-badge&logo=github)](https://github.com/Venom-Shivu/gaming-behavior-mental-health-analytics)
 
@@ -137,33 +115,6 @@ A real-world **Amazon business case study** analyzing the performance of the US 
 
 The project simulates an analytics scenario where the **Global Product Strategy & Analytics team** must determine whether marketplace growth is slowing and which segments drive performance before leadership allocates marketing budget for the upcoming year.
 
-### Key Analytical Focus
-
-- Revenue growth trend analysis
-- Department revenue concentration
-- Merchant segment contribution
-- Buyer engagement impact on transactions
-- Marketplace revenue efficiency
-
-### Key Insights
-
-- Revenue increased from **$1.03B → $1.59B** across four years
-- Growth slowed in **2016 (~8%)** before recovering in **2017 (~18%)**
-- The **Books department generated nearly 49% of marketplace revenue**
-- **High-volume merchants drive the majority of revenue**
-- Buyer engagement significantly influences transaction frequency
-
-### System Architecture
-
-Raw Marketplace Dataset  
-↓  
-Data Modeling (Star Schema)  
-↓  
-DAX Measures & KPI Development  
-↓  
-Power BI Executive Dashboard  
-↓  
-Strategic Insights & Business Recommendations  
 
 [![View Repository](https://img.shields.io/badge/View%20Repository-Amazon%20Marketplace%20Analytics-0A1AFF?style=for-the-badge&logo=github)](https://github.com/Venom-Shivu/amazon-us-marketplace-performance-analysis)
 
