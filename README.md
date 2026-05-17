@@ -7,10 +7,12 @@ Data Analyst / Analytics Engineer | Advanced SQL & Python | End-to-End Data Pipe
 </p>
 
 <p align="center">
+  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/the-venom)
 [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/venom-shivu/)
 [![HackerRank](https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=hackerrank&logoColor=black)](https://www.hackerrank.com/profile/Venom001)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mrshivusinghyadav@gmail.com)
+
 </p>
 
 
