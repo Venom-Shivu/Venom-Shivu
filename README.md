@@ -158,31 +158,25 @@ Strategic Insights & Business Recommendations
 [![View Repository](https://img.shields.io/badge/View%20Repository-Amazon%20Marketplace%20Analytics-0A1AFF?style=for-the-badge&logo=github)](https://github.com/Venom-Shivu/amazon-us-marketplace-performance-analysis)
 
 ![Amazon Executive Dashboard](https://raw.githubusercontent.com/Venom-Shivu/amazon-us-marketplace-performance-analysis/main/dashboards/executive_dashboard.png)
----
-
-## 📈 VenomSQL – Executive Analytics Dashboard
-
-**Advanced SQL • KPI Design • Business Intelligence**
-
-[![VenomSQL Executive Dashboard](https://img.shields.io/badge/View%20Repository-VenomSQL%20Executive%20Analytics-4479A1?style=for-the-badge&logo=github)](https://github.com/Venom-Shivu/VenomSQL-Executive-Analytics-Dashboard)
 
 ---
 
-## 🐍 Python Journey
+## 🧩 LeetCode Problem Solving Repository
 
-**Python • DSA • Problem Solving**
+**LeetCode • DSA • Competitive Programming • Interview Preparation**
 
-[![Python Journey](https://img.shields.io/badge/View%20Repository-Python%20Journey-3670A0?style=for-the-badge&logo=github)](https://github.com/Venom-Shivu/My-Python-Journey)
+A dedicated repository containing structured LeetCode solutions focused on:
+
+- Data Structures & Algorithms
+- Problem-solving patterns
+- Interview preparation
+- Optimized approaches with clean implementation
+- Consistent coding practice across difficulty levels
+
+[![LeetCode Solutions](https://img.shields.io/badge/View%20Repository-LeetCode%20Solutions-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://github.com/Venom-Shivu/problem-solving-with-shivansh)
 
 ---
 
-## 🗄 SQL Journey
-
-**SQL • Analytics • Query Optimization**
-
-[![SQL Journey](https://img.shields.io/badge/View%20Repository-SQL%20Journey-4479A1?style=for-the-badge&logo=github)](https://github.com/Venom-Shivu/MySQL-JOURNEY)
-
----
 
 ## 📚 Python Practice Workbook
 
@@ -205,6 +199,7 @@ Strategic Insights & Business Recommendations
 # 🤝 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/the-venom)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/venom-shivu/)
 [![HackerRank](https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=hackerrank&logoColor=black)](https://www.hackerrank.com/profile/Venom001)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mrshivusinghyadav@gmail.com)
 
